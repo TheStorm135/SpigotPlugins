@@ -1,0 +1,7 @@
+name: ParticlePlugin
+version: '${project.version}'
+main: io.github.thestorm135.particleplugin.ParticlePlugin
+api-version: 1.18
+authors: [ CyberWolfie ]
+description: learning spigot particles
+commands:
