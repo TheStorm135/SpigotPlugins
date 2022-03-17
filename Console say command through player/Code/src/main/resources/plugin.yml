@@ -1,0 +1,10 @@
+name: ConsoleSayCommand
+version: '${project.version}'
+main: io.github.thestorm135.consolesender.ConsoleSender
+api-version: 1.18
+authors: [ CyberWolfie ]
+description: sends a '/say' command to the console. useful if SuperVanished
+commands:
+  csend:
+    description: sends a 'say' command to the console.
+    usage: /<command>
